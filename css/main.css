@@ -223,6 +223,10 @@ footer {
   footer p {
     margin: 0;
   }
+  footer .social-icons i {
+    font-size: 1.3125em;
+}
+  }
 
   /*--------------------Mobile styles - Homepage---------------------------*/
 
